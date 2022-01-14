@@ -1,0 +1,8 @@
+1. Start
+2. Siapkan panci dan air
+3. Letakkan panci di atas kompor
+4. Masukkan air ke dalam panci
+5. Nyalakan api kompor
+6. Tunggu air mendidih
+7. Ketika air telah mendidih, air siap digunakan
+8. End

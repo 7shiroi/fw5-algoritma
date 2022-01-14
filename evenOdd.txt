@@ -1,0 +1,8 @@
+Ganjil Genap
+
+1. Start
+2. input nilai x
+3. if x modulo 2 = 0
+4. then print x adalah bilangan genap
+5. else print x adalah bilangan ganjil
+6. End

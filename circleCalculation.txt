@@ -1,0 +1,8 @@
+Mehitung luas dan keliling lingkaran
+
+1. Start
+2. constanta pi = 22/7 atau 3.14
+3. temukan jari-jari lingkaran (r)
+4. untuk menghitung luas dengan rumus pi*r*r
+5. untuk menghitung keliling dengan rumus 2*pi*r
+6. End

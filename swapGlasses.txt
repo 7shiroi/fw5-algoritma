@@ -1,0 +1,14 @@
+menukar isi gelas
+
+initial
+Gelas teh = A
+Gelas kopi = B
+
+1. Start
+2. Siapkan gelas kosong (C)
+3. Tuangkan teh ke gelas kosong (A -> C)
+4. Bersihkan gelas yang berisi teh sebelumnya (A)
+5. Tuangkan kopi ke gelas yang berisi teh sebelumnya (B -> A)
+6. Bersihkan gelas yang berisi kopi (B)
+7. Tuangkan teh yang berada dalam gelas baru ke gelas yang berisi kopi sebelumnya (C -> B)
+8. End

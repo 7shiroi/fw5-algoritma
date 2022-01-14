@@ -1,0 +1,8 @@
+Mencari yang terbesar
+
+1. Start
+2. input nilai x
+3. input nilai y
+4. if x > y
+5. then print x lebih besar dari y
+6. else print y lebih besar dari x
